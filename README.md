@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/Project%20Code-CSE%2052-FF5733?style=for-the-badge&logo=appveyor" alt="Project Code">
   <img src="https://img.shields.io/badge/Platform-React_Native-61DAFB?style=for-the-badge&logo=react" alt="Platform">
   <img src="https://img.shields.io/badge/AI_Engine-Gemini_3.1_Flash-4285F4?style=for-the-badge&logo=google" alt="AI Engine">
   <img src="https://img.shields.io/badge/Status-Active-4CAF50?style=for-the-badge" alt="Status">
