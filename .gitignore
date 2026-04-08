@@ -44,4 +44,5 @@ app-example
 
 
 app/(tabs)/explore.tsx
+
 app/(tabs)/scanner.tsx
