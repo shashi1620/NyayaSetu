@@ -41,3 +41,7 @@ app-example
 # generated native folders
 /ios
 /android
+
+
+app/(tabs)/explore.tsx
+app/(tabs)/scanner.tsx
