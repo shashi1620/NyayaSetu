@@ -11,15 +11,6 @@
 
 ---
 
-## 👥 The Team
-
-- **Shashi Prakash Maurya** (Lead)
-- **Aditya Roshan** (Developer)
-- **Sanny Kumar** (Developer)
-- **Biradar Manmath Shyam** (Developer)
-
----
-
 ## 🛑 The Justice Gap
 
 Millions of citizens in India face a significant gap when accessing justice. The primary barriers include:
